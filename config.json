@@ -3,7 +3,7 @@
            "StreamingCommunity": {
                "url": "https://www.streamingcommunity.education",
                "SC_ForwardProxy": "0",
-               "SC_PROXY": "0",
+               "SC_PROXY": "1",
                "VX_ForwardProxy": "0",
                "VX_PROXY": "0",
                "enabled": "1"
