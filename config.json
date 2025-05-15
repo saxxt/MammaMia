@@ -2,10 +2,10 @@
     "Siti": {
            "StreamingCommunity": {
                "url": "https://streamingunity.to",
-               "SC_ForwardProxy": "1",
+               "SC_ForwardProxy": "0",
                "SC_PROXY": "1",
                "VX_ForwardProxy": "0",
-               "VX_PROXY": "0",
+               "VX_PROXY": "1",
                "enabled": "1"
            },
            "Filmpertutti": {
