@@ -1,9 +1,9 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.paris",
+               "url": "https://streamingunity.to",
                "SC_ForwardProxy": "0",
-               "SC_PROXY": "0",
+               "SC_PROXY": "1",
                "VX_ForwardProxy": "0",
                "VX_PROXY": "0",
                "enabled": "1"
@@ -30,8 +30,8 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01new.loan",
-              "CB_PROXY":"0",
+              "url":"https://cb01net.icu",
+              "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
@@ -40,24 +40,24 @@
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
               "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
+                  "ips4_device_key": "1496c03312d318b557ff53512202e757",
+                  "ips4_IPSSessionFront": "d9ace0029696972877e2a5e3614a333b",
+                  "ips4_member_id": "4030088",
+                  "ips4_login_key": "71a501781ba479dfb91b40147e637daf"
                   },
               "enabled":"1"
           },
           "Guardaserie":{
-              "url":"https://guardaserietv.mom",
+              "url":"https://guardaserietv.art",
               "enabled":"1",
               "GS_ForwardProxy":"0",
-              "GS_PROXY":"0"
+              "GS_PROXY":"1"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
               "enabled":"1",
               "GH_ForwardProxy":"0",
-              "GH_PROXY":"0"
+              "GH_PROXY":"1"
           },
           "Onlineserietv":{
               "domain":"com",
